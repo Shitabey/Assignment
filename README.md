@@ -9,7 +9,7 @@ let a = "apple";
 let d = "dog";
 let e = "egg";
 let f = "fish";
-let g = 'goat";
+let g = "goat";
 let h = "horse";
 let i = "ink";
 let j = "january";
@@ -26,7 +26,7 @@ let t = "twinkle";
 let u = "umbrella";
 let v = "violin";
 let w = "whatsapp";
-let x = "xylophone';
+let x = "xylophone";
 let y = "yam";
 let z = "zebra";
 let cd = "cold";
@@ -162,6 +162,7 @@ null == undefined // true
 
 
 (1b).
+
 const big1 = 100n;
 const big2 = 999999999999999999999999n;
 const big3 = 42n;
